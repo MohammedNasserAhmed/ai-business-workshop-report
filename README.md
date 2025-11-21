@@ -8,6 +8,10 @@ tools_used: ["Microsoft Teams", "Power Automate", "Make.com", "Gemini 1.5 Pro", 
 participants_count: 278
 ---
 
+<p align="center">
+  <img src="docs/ai_in_business.png" width="90%">
+</p>
+
 # AI Business Workshop Report & Dashboard
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
