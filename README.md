@@ -19,6 +19,9 @@ participants_count: 278
 > **A state-of-the-art, automated analytics dashboard for the "AI in Business" workshop, powered by Gemini 1.5 Pro and a fully automated data pipeline.**
 
 > [!IMPORTANT]
+
+![Attention Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1jbXgxd3k4NGw0bXB4YTZ1aTUzOTZvMXUzMG9jZHdoMTNtMWNnaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BafZrA7tQuk4x997G0/giphy.gif)
+
 > **Workshop Status Update:**
 > *   **Materials:** All workshop materials and resources will be uploaded to this repository **immediately after the workshop concludes**.
 > *   **Registration:** We (ainarabic) have successfully sent confirmation emails to all registered participants. You will receive the detailed schedule and joining link shortly.
