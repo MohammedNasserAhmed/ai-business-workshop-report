@@ -19,7 +19,7 @@ participants_count: 278
 > **A state-of-the-art, automated analytics dashboard for the "AI in Business" workshop, powered by Gemini 1.5 Pro and a fully automated data pipeline.**
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHN5dGRyZmx5eG5yczk2YXNiaGVid3B0Z2psOWR0aXFwMGx2OHZ4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2qGvczt1NqihVOBlDW/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHN5dGRyZmx5eG5yczk2YXNiaGVid3B0Z2psOWR0aXFwMGx2OHZ4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2qGvczt1NqihVOBlDW/giphy.gif" width="20%">
 </p>
 
 > [!IMPORTANT]
@@ -32,8 +32,8 @@ participants_count: 278
 ## 🎥 Interactive Demo
 
 <!-- TODO: Replace with actual GIF path in docs/assets/demo-preview.gif -->
-<p align="centre">
-  <img src="https://github.com/MohammedNasserAhmed/ai-business-workshop-report/blob/d1b6cf7679fab76a8e77c34ad60391e239190984/docs/dashboard-cm.gif" width="50%">
+<p align="center">
+  <img src="https://github.com/MohammedNasserAhmed/ai-business-workshop-report/blob/d1b6cf7679fab76a8e77c34ad60391e239190984/docs/dashboard-cm.gif" width="80%">
 </p>
 
 [**🔴 View Live Dashboard**](https://mohammednasserahmed.github.io/ai-business-workshop-report/) <!-- TODO: Update Link -->
@@ -92,8 +92,8 @@ The dashboard visualizes data from **278 participants** who attended the "Artifi
 
 ## 🏗 Architecture & Automation Pipeline
 
-<p align="centre">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTluOWU5enZ4Y2h5ZzZheWFycnViMGJzZnVwMHR2dG9hZHIxdWVweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5krfq8pMdYhAV52xPg/giphy.gif" width="30%">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTluOWU5enZ4Y2h5ZzZheWFycnViMGJzZnVwMHR2dG9hZHIxdWVweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5krfq8pMdYhAV52xPg/giphy.gif" width="80%">
 </p>
 
 The "Secret Sauce" of this workshop was its invisible, high-efficiency orchestration layer.
@@ -120,8 +120,8 @@ The "Secret Sauce" of this workshop was its invisible, high-efficiency orchestra
 
 ### 4. Communication & Confirmation
 
-<p align="centre">
-  <img src="docs/make-sent-Made-with-Clipchamp.gif" width="50%">
+<p align="center">
+  <img src="docs/make-sent-Made-with-Clipchamp.gif" width="80%">
 </p>
 
 *   **Tool:** [Make.com](https://www.make.com/)
