@@ -1,9 +1,9 @@
 {
-  "project_name": "AI Business Workshop Report",
+  "project_name": "AI in Business Workshop Report",
   "version": "1.0.0",
   "last_updated": "2025-11-21",
   "maintainers": ["MohammedNasserAhmed"],
-  "demo_url": "https://demo.example.com",
+  "demo_url": "https://mohammednasserahmed.github.io/ai-business-workshop-report/",
   "tools_used": [
     "Microsoft Teams",
     "Power Automate",
