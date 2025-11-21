@@ -149,7 +149,9 @@ graph TD
 
 ## 🚀 How It Works (Step-by-Step)
 
-![Pipline Preview](docs/pipeline.png)
+<p align="center">
+  <img src="docs/pipeline.png" width="70%">
+</p>
 
 ### 1. Data Collection
 Users registered via a Microsoft Form embedded in the workshop landing page. 
